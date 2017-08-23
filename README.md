@@ -1,3 +1,10 @@
+
+Meine Version:     https://ginaalina.github.io/leaflet-how-to-lie-with-maps
+
+Google Sheets: https://docs.google.com/spreadsheets/d/1wBKM5et937Kt-dZURYtxBMIoqnCdtj3dFgnWDr9wp7o/edit#gid=0
+
+
+----------------------
 # leaflet-how-to-lie-with-maps
 learn to detect bias by creating opposing maps of the same data
 
